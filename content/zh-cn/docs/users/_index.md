@@ -19,3 +19,5 @@ weight: 8
 * [gotify](https://github.com/gotify/server)：使用实时 web socket 做消息收发的简单服务器。
 
 * [cds](https://github.com/ovh/cds)：企业级持续交付和 DevOps 自动化开源平台。
+  
+* [gofly](https://goflys.cn)：基于Gin集成快速开发管理后台框架，gin路由根据目录层级自动注册、vue3后台界面等功能。
